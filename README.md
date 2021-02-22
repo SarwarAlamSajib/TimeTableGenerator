@@ -14,3 +14,4 @@
 - log out
 
 # Screenshot
+![sc2](https://user-images.githubusercontent.com/67343603/108722318-4f51d400-7523-11eb-94a2-4deacaed80d5.JPG)
