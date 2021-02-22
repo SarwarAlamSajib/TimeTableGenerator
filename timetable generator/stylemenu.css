@@ -1,0 +1,42 @@
+.menu{ /*header designing*/
+Width:100%;
+Height:100px;
+color:orange;
+background: #142b47;
+}
+
+nav{ /*navigation designing*/
+font-style: bold;
+height: 20px;
+width: 1100px;
+border-radius: 3px;
+margin-bottom: 5px;
+margin: 0px auto;
+}
+
+nav ul{
+list-style: none;}
+
+nav ul li a{
+float: left;
+text-decoration:none;
+color: white;
+padding: 10px 10px;
+text-align: center;
+line-height: 20px;
+height: 20px;
+display: block;
+width: 150px;
+}
+
+nav ul li a:hover{
+background-color: white;
+color: blue;
+border-radius:5px;
+}
+
+nav ul li a.active{
+background-color:white;
+border-radius: 5px;
+color: cornflowerblue;
+}

@@ -1,0 +1,54 @@
+.btn {
+  padding: 5px;
+  font-size: 14px;
+  width: 30%;
+  color: black;
+  background: white;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.input-group {
+  margin: 10px 10px 10px 10px;
+}
+.input-group input {
+  height: 30px;
+  width: 100%;
+  margin: 5px auto;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+form, .content {
+  width: 30%;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid black;
+  background:  cornflowerblue;
+  border-radius: 10px 10px 10px 10px;
+  color:white;
+}
+.sc{
+	width:30%;
+	margin: 0px;
+}
+.select-group{
+	  margin: 10px 10px 10px 10px;
+}
+.select-group select{
+	  width: 100%;
+	  height:25px;
+	  border: 1px solid black;
+	  margin: 5px auto;
+}
+.error {
+  width: 92%; 
+  margin: 5px auto; 
+  padding: 5px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
